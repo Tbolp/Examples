@@ -1,0 +1,1 @@
+module.exports = __webpack_public_path__ + "assets/group1-shard1of1.bin";
